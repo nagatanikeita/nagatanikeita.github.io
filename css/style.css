@@ -155,6 +155,12 @@
 	margin-left: 20px;
 }
 
+.line-it-button{
+	float:right;
+	width: 100px;
+	 
+}
+
 small{
 	display: block;
 	margin-left: 60px;
