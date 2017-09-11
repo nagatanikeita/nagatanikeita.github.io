@@ -146,6 +146,11 @@
 	margin: 0 auto;
 }
 
+.text13{
+/*	margin-bottom: 60px;*/
+	margin-top: 60px;
+}
+
 .footer_gazou{
 	width: 100%;
 	background-color:#272427;
@@ -160,6 +165,17 @@
 	margin-left: 5px;
 }
 
+.facebook_box{
+	height: 550px;
+	margin-top: 30px; 
+	/*margin-bottom: 20px; */
+}
+
+.facebook{
+	margin: 0 auto;
+	/*margin-top: 60px;*/
+	
+}
 /*.line-it-button{
 	float:right;
 	width: 100px;*/
